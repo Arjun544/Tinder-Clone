@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:tinder_clone/models/user_model.dart';
-import 'package:tinder_clone/screens/chats_screen/chats_screen.dart';
-import 'package:tinder_clone/screens/discover_screen/discover_screen.dart';
 import 'package:tinder_clone/screens/my_profile_screen/components/profle_row.dart';
 import 'package:tinder_clone/screens/sign_in_screen/sign_in_screen.dart';
 import 'package:tinder_clone/services/auth_methods.dart';
